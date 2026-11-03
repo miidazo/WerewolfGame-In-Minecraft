@@ -1,5 +1,3 @@
-マイクラ人狼 version : 3.8.1-(latest_release)
-
 README
 
 
